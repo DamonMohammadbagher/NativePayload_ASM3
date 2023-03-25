@@ -10,12 +10,12 @@ Related Video [NativePayload_ASM]: https://www.youtube.com/watch?v=T57pWzS59Y8
 
 Usage: 
     
-     NativePayload_PE1.exe "meterpreter/cobaltstrike payload"
+     NativePayload_ASM3.exe "meterpreter/cobaltstrike payload"
      example: NativePayload_ASM3.exe "fc,48,e8,00,....."
      
 Usage: 
     
-     NativePayload_PE2.exe "meterpreter/cobaltstrike payload"
+     NativePayload_AsynASM.exe "meterpreter/cobaltstrike payload"
      example: NativePayload_AsynASM.exe "fc,48,e8,00,....."     
 
 <p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_ASM3/"/></a></p>
